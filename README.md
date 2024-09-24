@@ -2,11 +2,14 @@
 
 ## iPhone
 - **ReprodutorMusical**
-  - `+exemploMetodo1()`
-  - `+exemploMetodo2(String exemplo)`
+  - `Tocar()`
+  - `Pausar()`
+  - `SelecionarMusica(String musica)`
 - **AparelhoTelefonico**
-  - `+exemploMetodo1()`
-  - `+exemploMetodo2(String exemplo)`
+  - `ligar(String numero) `
+  - `atender()`
+  - `iniciarCorreioVoz()`
 - **NavegadorInternet**
-  - `+exemploMetodo1()`
-  - `+exemploMetodo2(String exemplo)`
+  - `exibirPagina(String url)`
+  - `adicionarNovaAba()`
+  - `atualizarPagina()`
